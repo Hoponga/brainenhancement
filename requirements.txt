@@ -1,0 +1,4 @@
+PyMuPDF==1.23.14
+requests==2.31.0
+pathlib
+pyttsx3==2.90
