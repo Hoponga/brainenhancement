@@ -1,0 +1,30 @@
+# PDF Processing
+pdfplumber==0.11.4
+
+# AI Integration
+openai==1.54.3
+httpx<0.28.0
+
+# Video Processing
+moviepy==1.0.3
+imageio==2.36.0
+imageio-ffmpeg==0.5.1
+
+# Environment Management
+python-dotenv==1.0.1
+
+# HTTP Requests
+requests==2.32.3
+
+# Utilities
+numpy==1.26.4
+Pillow==11.0.0
+
+# Retry Logic
+tenacity<9.0.0
+
+# Optional: For better progress bars
+tqdm==4.67.0
+
+# Optional: For colored terminal output
+colorama==0.4.6

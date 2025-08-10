@@ -1,0 +1,40 @@
+# Environment files
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Temporary files
+temp/
+*.tmp
+*.log
+
+# Output files
+output/*.mp4
+output/*.json
+
+# Background videos (can be large)
+backgrounds/*.mp4
+backgrounds/*.mov
+backgrounds/*.avi
+backgrounds/*.webm
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Test files
+test_*.pdf
+*.test.mp4

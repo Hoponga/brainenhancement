@@ -1,0 +1,23 @@
+{
+  "openai_model": "gpt-4o-mini",
+  "tts_service": "openai",
+  "voice": "nova",
+  "voice_speed": 1.0,
+  "max_duration": 180,
+  "words_per_caption": 5,
+  "platform": "tiktok",
+  "caption_style": {
+    "fontsize": 85,
+    "font": "Arial-Bold",
+    "color": "white",
+    "stroke_color": "black",
+    "stroke_width": 3
+  },
+  "video_settings": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "bitrate": "8000k",
+    "codec": "libx264"
+  }
+}
